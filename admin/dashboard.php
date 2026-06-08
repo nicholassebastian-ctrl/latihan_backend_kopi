@@ -8,4 +8,4 @@ echo "welcome, ".$username;
 <br>
 <a href="registrations/index.php">manajemen pendaftaran</a>
 <br>
-<a href="logout.php">logout</a>
+<a href="logout.php">logout</a>aaaa
